@@ -129,7 +129,7 @@ cout<<" 9. who won the ICC Mens T20I Cricketer of the Decade ?"<<endl;cout<<endl
         cout<<"correct"<<endl;  cout<<" You have won 12,50,000rs"<<endl;
         sum=1250000;cout<<endl;}
         else{
-        cout<<"wrong correct answer is Rashid Khan"<<endl;cout<<" you loss all money"<<endl;
+        cout<<"wrong correct answer is Rashid Khan"<<endl;cout<<" 160000"<<endl;
         sum=sum-160000;cout<<endl;
         }
 
